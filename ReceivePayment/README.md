@@ -1,5 +1,6 @@
 ---
 description: Receive payments with a single url, ready to use as an hosted payment page
+icon: sack-dollar
 layout:
   width: default
   title:
@@ -34,7 +35,7 @@ If this is the first time you open it, P-Link automatically creates a wallet and
 ### 2. Add an amount
 
 Format :\
-`https://p-link.io/[email]/[montant]`
+`https://p-link.io/[email]/[amount]`
 
 💡 Example :\
 `https://p-link.io/contact@net-assembly.com/10`\
@@ -43,7 +44,7 @@ Using this link, you can pay 10$ to contact@net-assembly.com
 ### 3. Add a currency
 
 Format :\
-`https://p-link.io/[email]/[montant][devise]`
+`https://p-link.io/[email]/[amount][devise]`
 
 Example :\
 `https://p-link.io/contact@net-assembly.com/10EUR` → payment of 10 EUR to contact@net-assembly.com
@@ -60,7 +61,7 @@ You can also use the advanced wizard available on :
 
 ### Important information
 
-* By default, users can use any Solana based cryptocurrency in order to pay a P-Link, or also directly used credit card, then the payment will be automatically converted into USDC to avoid volatility risk.
+* By default, users can use any Solana based cryptocurrency in order to pay a P-Link, or also directly use credit card, then the payment will be automatically converted into USDC to avoid volatility risk (for the receiver).
 * This is a DeFi payment, so the payment cannot be refunded
 
 ***
