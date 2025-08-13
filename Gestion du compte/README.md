@@ -1,5 +1,19 @@
 ---
 description: Creating and claiming a P-Link account to manage your payments
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Account management
