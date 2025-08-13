@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Recevoir un paiement](README.md)
+* [Envoyer un paiement](README.md)
