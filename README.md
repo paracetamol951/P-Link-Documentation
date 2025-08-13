@@ -1,27 +1,41 @@
 ---
-icon: hand-wave
+description: >-
+  Présentation générale de P-Link, plateforme de paiement universelle sans
+  inscription.
 layout:
-  width: default
+  width: wide
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
-    visible: true
+    visible: false
   metadata:
     visible: true
 ---
 
-# Welcome
+# Aide P-Link.io Payment links
 
-Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+## Bienvenue sur la documentation P-Link
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+**P-Link** est une plateforme universelle pour envoyer et recevoir des paiements en crypto-monnaie sur Solana, **sans inscription préalable**.
 
-### Jump right in
+### 🚀 Points forts
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-bolt">:bolt:</i></h4></td><td><strong>Quickstart</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Editor basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+* Aucun compte à créer avant de recevoir un paiement.
+* 0 % de commission côté vendeur (hors frais réseau Solana).
+* Fonctionne avec une simple adresse email ou un numéro de téléphone.
+* Liens de paiement utilisables immédiatement, parfaits pour intégrations automatiques ou IA.
+* Conversion possible des paiements crypto vers fiat.
+
+### 🔗 Site officiel
+
+[https://p-link.io](https://p-link.io)
+
+***
+
+**Voir aussi :** [Recevoir un paiement](https://app.gitbook.com/s/GW0gCb0f3OafIFrYo4nk/) · [Envoyer un paiement](https://app.gitbook.com/s/dvdj8Y2r3cXbDQL2GIXP/)
