@@ -1,26 +1,26 @@
 ---
-description: Création et réclamation d’un compte P-Link pour gérer ses paiements
+description: Creating and claiming a P-Link account to manage your payments
 ---
 
-# Gestion du compte
+# Account management
 
-## Gestion du compte
+## Account management
 
-### Création d’un compte manuelle
+### Manual account creation
 
-Vous pouvez créer un compte P-Link via :
+You can create a P-Link account via :
 
-* Connexion Google
-* Connexion Twitter
-* Connexion par email (OTP envoyé dans la boîte mail)
-* Connexion avec un Wallet (Phantom, Solflare, Backpack)
+* Google Login
+* Twitter Login
+* Login by email (OTP sent to the mailbox)
+* Connection with a Wallet (Phantom, Solflare, Backpack)
 
-### Réclamation d’un compte
+### Claiming an account
 
-* Si quelqu’un vous envoie un paiement et que vous n’avez pas encore de compte :
-  * Vous recevez un email ou SMS avec un lien sécurisé.
-  * Cliquez sur le lien pour réclamer le wallet associé.
-  * Vous pourrez ensuite : transférer les fonds, convertir en fiat, ou réutiliser le wallet pour d’autres paiements.
+* If someone sends you a payment and you don't have an account yet :
+  * You will receive an email or SMS with a secure link.
+  * Click on the link to claim the associated wallet.
+  * You can then: transfer the funds, convert to fiat, or reuse the wallet for other payments.
 
 ***
 
