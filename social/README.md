@@ -21,7 +21,7 @@ layout:
 
 ## Use on social networks
 
-Les liens P-Link peuvent être partagés sur toutes les plateformes :
+P-Link links can be shared across all platforms :
 
 * Discord
 * Twitter / X
@@ -36,5 +36,5 @@ You can customize :
 * The title
 * The desc
 
-To customize, create a P-Link from the official website.\
+To customize, create a P-Link from the official website ( [https://p-link.io/create](https://p-link.io/create) ).\
 Default p-links (`https://p-link.io/[email]`) already have an optimized display.
