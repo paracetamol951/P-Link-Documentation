@@ -36,6 +36,8 @@ layout:
 
 💡 Funds not claimed within 3 days are returned to the sender (configurable timeframe).
 
+In order to get your API key, you need to go to [https://p-link.io/ApiDoc/Send](https://p-link.io/ApiDoc/Send)
+
 ***
 
 **See also :** [Receive a payment](https://app.gitbook.com/o/bllpV5WzojoAAxsATbH7/s/GW0gCb0f3OafIFrYo4nk/)&#x20;
