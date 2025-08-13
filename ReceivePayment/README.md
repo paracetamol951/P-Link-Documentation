@@ -1,5 +1,19 @@
 ---
 description: Receive payments with a single url, ready to use as an hosted payment page
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Receive a payment
