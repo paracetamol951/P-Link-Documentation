@@ -27,6 +27,8 @@ layout:
 
 💡 Example :\
 `https://p-link.io/contact@net-assembly.com`\
+Using this link, you can pay any amount to contact@net-assembly.com
+
 If this is the first time you open it, P-Link automatically creates a wallet and sends you a secure link by email to claim it..
 
 ### 2. Add an amount
@@ -34,8 +36,9 @@ If this is the first time you open it, P-Link automatically creates a wallet and
 Format :\
 `https://p-link.io/[email]/[montant]`
 
-Example :\
-`https://p-link.io/contact@net-assembly.com/10` → payment of 10 USD.
+💡 Example :\
+`https://p-link.io/contact@net-assembly.com/10`\
+Using this link, you can pay 10$ to contact@net-assembly.com
 
 ### 3. Add a currency
 
@@ -43,7 +46,7 @@ Format :\
 `https://p-link.io/[email]/[montant][devise]`
 
 Example :\
-`https://p-link.io/contact@net-assembly.com/10EUR` → payment of 10 EUR.
+`https://p-link.io/contact@net-assembly.com/10EUR` → payment of 10 EUR to contact@net-assembly.com
 
 ### P-Link wizard
 
