@@ -1,5 +1,5 @@
 ---
-description: Create a P-Link to receive payment
+description: Receive payments with a single url, ready to use as an hosted payment page
 ---
 
 # Receive a payment
