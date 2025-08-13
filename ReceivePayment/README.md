@@ -57,7 +57,8 @@ You can also use the advanced wizard available on :
 
 ### Important information
 
-By default, users can use any Solana based cryptocurrency in order to pay a P-Link, or also directly used credit card, then the payment will be automatically converted into USDC to avoid volatility risk.
+* By default, users can use any Solana based cryptocurrency in order to pay a P-Link, or also directly used credit card, then the payment will be automatically converted into USDC to avoid volatility risk.
+* This is a DeFi payment, so the payment cannot be refunded
 
 ***
 
