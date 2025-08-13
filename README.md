@@ -1,41 +1,36 @@
 ---
-description: >-
-  Présentation générale de P-Link, plateforme de paiement universelle sans
-  inscription.
-layout:
-  width: wide
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: true
+description: Créer un lien P-Link pour recevoir un paiement
 ---
 
-# Aide P-Link.io Payment links
+# Recevoir un paiement
 
-## Bienvenue sur la documentation P-Link
+## Recevoir un paiement
 
-**P-Link** est une plateforme universelle pour envoyer et recevoir des paiements en crypto-monnaie sur Solana, **sans inscription préalable**.
+### 1. Créer un lien de paiement
 
-### 🚀 Points forts
+* Structure de base : `https://p-link.io/[email]`
+* Remplacez `[email]` par votre adresse email.
 
-* Aucun compte à créer avant de recevoir un paiement.
-* 0 % de commission côté vendeur (hors frais réseau Solana).
-* Fonctionne avec une simple adresse email ou un numéro de téléphone.
-* Liens de paiement utilisables immédiatement, parfaits pour intégrations automatiques ou IA.
-* Conversion possible des paiements crypto vers fiat.
+💡 Exemple :\
+`https://p-link.io/contact@net-assembly.com`\
+Si c’est la première ouverture, P-Link crée automatiquement un wallet et envoie par email un lien sécurisé pour le réclamer.
 
-### 🔗 Site officiel
+### 2. Ajouter un montant
 
-[https://p-link.io](https://p-link.io)
+Format :\
+`https://p-link.io/[email]/[montant]`
+
+Exemple :\
+`https://p-link.io/contact@net-assembly.com/10` → paiement de 10 USD.
+
+### 3. Ajouter une devise
+
+Format :\
+`https://p-link.io/[email]/[montant][devise]`
+
+Exemple :\
+`https://p-link.io/contact@net-assembly.com/10EUR` → paiement de 10 EUR.
 
 ***
 
-**Voir aussi :** [Recevoir un paiement](https://app.gitbook.com/s/GW0gCb0f3OafIFrYo4nk/) · [Envoyer un paiement](https://app.gitbook.com/s/dvdj8Y2r3cXbDQL2GIXP/)
+**Voir aussi :** [Envoyer un paiement](https://app.gitbook.com/o/bllpV5WzojoAAxsATbH7/s/dvdj8Y2r3cXbDQL2GIXP/) · [Utilisation sur les réseaux sociaux](https://app.gitbook.com/o/bllpV5WzojoAAxsATbH7/s/BCEnyN7ssdN6rxQitpev/)
