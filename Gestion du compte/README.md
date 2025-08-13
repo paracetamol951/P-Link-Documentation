@@ -36,6 +36,3 @@ You can create a P-Link account via :
   * Click on the link to claim the associated wallet.
   * You can then: transfer the funds, convert to fiat, or reuse the wallet for other payments.
 
-***
-
-**Voir aussi :** [Sécurité et bonnes pratiques](https://app.gitbook.com/o/bllpV5WzojoAAxsATbH7/s/My8RJKaUz1hHDO3ujMxU/) · [Recevoir un paiement](https://app.gitbook.com/o/bllpV5WzojoAAxsATbH7/s/GW0gCb0f3OafIFrYo4nk/)
