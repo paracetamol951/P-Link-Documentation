@@ -31,7 +31,7 @@ layout:
 ### 2. Via URL with API key
 
 * Format :\
-  `https://p-link.io/[API_KEY]/[email]/[amount]`
+  `https://p-link.io/api/tr4usr/[API_KEY]/[email]/[amount]`
 * Allows you to send money by simply calling a URL.
 
 💡 Funds not claimed within 3 days are returned to the sender (configurable timeframe).
