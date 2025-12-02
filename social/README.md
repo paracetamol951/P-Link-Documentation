@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Collect payments on social media
+# Collect payments everywhere
 
 ## Use on social networks
 
@@ -38,3 +38,7 @@ You can customize :
 
 To customize, create a P-Link from the official website ( [https://p-link.io/create](https://p-link.io/create) ).\
 Default p-links (`https://p-link.io/[email]`) already have an optimized display.
+
+### MCP server
+
+You can use our MCP server located at https://mcp.p-link.io/mcp and connect your favorite AI agent with sending and receiving money with P-Link

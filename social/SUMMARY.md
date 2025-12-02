@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Collect payments on social media](README.md)
+* [Collect payments everywhere](README.md)
